@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<!DOCTYPE bikes SYSTEM "text.dtd">
+<bikes>
+<heading>LIST OF BIKES</heading>
+<br />
+<br><text1>r15</text1><br/>
+<br><text2>royal enfield</text2><br/>
+<text3>pulsar</text3>
+<text4>ktm</text4>
+
+<heading>SELECTED BIKES</heading>
+<text1>r15</text1>
+<text2>royal enfield</text2>
+</bikes>
+
